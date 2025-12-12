@@ -1,0 +1,6 @@
+
+<RCC>
+  <qresource prefix="/">
+    <file alias="icons/sendas.svg">icons/sendas.svg</file>
+  </qresource>
+</RCC>

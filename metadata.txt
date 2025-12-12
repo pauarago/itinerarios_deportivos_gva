@@ -1,0 +1,21 @@
+
+[general]
+name=Tramos sobre track (25830)
+qgisMinimumVersion=3.16
+version=1.0.0
+author=Pau Aragó Galindo
+description=Genera tramos sobre un track a partir de tabla (X/Y/Longitud/Tramo), todo en EPSG:25830. Incluye capa auxiliar y guardado a GPKG/SHP.
+about=Proyecta el punto al track, recorre la longitud indicada y construye el tramo real sin depender de lineSubstring. Selector de CRS para la tabla, y unión de segmentos del track. Este plugin se ha generado para poder importar los datos de evaluación de itinerario para la tramitación de registro de itinerarios de la Generalitat Valenciana.
+category=Vector
+homepage=
+tracker=
+repository=
+
+[experimental]
+experimental=False
+
+[deprecated]
+deprecated=False
+
+[license]
+license=GNU (LGPL)
