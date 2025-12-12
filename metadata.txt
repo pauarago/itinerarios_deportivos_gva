@@ -7,9 +7,9 @@ author=Pau Aragó Galindo
 description=Genera tramos sobre un track a partir de tabla (X/Y/Longitud/Tramo), todo en EPSG:25830. Incluye capa auxiliar y guardado a GPKG/SHP.
 about=Proyecta el punto al track, recorre la longitud indicada y construye el tramo real sin depender de lineSubstring. Selector de CRS para la tabla, y unión de segmentos del track. Este plugin se ha generado para poder importar los datos de evaluación de itinerario para la tramitación de registro de itinerarios de la Generalitat Valenciana.
 category=Vector
-homepage=
+homepage= https://github.com/pauarago/itinerarios_deportivos_gva
 tracker=
-repository=
+repository=https://github.com/pauarago/itinerarios_deportivos_gva
 
 [experimental]
 experimental=False
