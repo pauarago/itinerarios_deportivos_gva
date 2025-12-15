@@ -9,7 +9,7 @@ description=Genera tramos sobre un track a partir de tabla (X/Y/Longitud/Tramo),
 about=Proyecta el punto al track, recorre la longitud indicada y construye el tramo real sin depender de lineSubstring. Selector de CRS para la tabla, y unión de segmentos del track. Este plugin se ha generado para poder importar los datos de evaluación de itinerario para la tramitación de registro de itinerarios de la Generalitat Valenciana.
 category=Vector
 homepage= https://github.com/pauarago/itinerarios_deportivos_gva
-tracker=
+tracker=https://github.com/pauarago/itinerarios_deportivos_gva/issues
 repository=https://github.com/pauarago/itinerarios_deportivos_gva
 
 [experimental]
@@ -20,4 +20,5 @@ deprecated=False
 
 [license]
 license=GNU (LGPL)
+
 
